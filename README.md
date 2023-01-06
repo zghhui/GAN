@@ -8,3 +8,5 @@
 
 
 其中.ph文件是之前训练完保存的模型参数，可以在test.py文件中直接调用，进行图像生成
+
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1609164545152000000.svg)](https://www.murphysec.com/accept?code=ce46ef4b54ea31efcb5efc3d9af3b420&type=1&from=2&t=2)
